@@ -719,8 +719,9 @@ h3 {
 
 .typewriter {
   right: 20px;
-  top: 70px;
-  left: 10px;
+  top: 65px;
+  left: 20px;
+  bottom: 70px;
   position: absolute;
 }
 
@@ -730,7 +731,8 @@ h3 {
 
 /* The typing effect */
 
-.letter {color: #4b4b4b;
+.letter {
+  color: #4b4b4b;
   font-size: 17px !important;
   background-image: url("../public/bgletter.jpg");
   display: block;
